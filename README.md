@@ -1,4 +1,3 @@
 datasciencecoursera
 ===================
-## HelloWorld
-coursera data science class
+## This is a markdown file
